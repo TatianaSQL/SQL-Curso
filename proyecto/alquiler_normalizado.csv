@@ -1,0 +1,1279 @@
+﻿territorio,anio,precio_medio_eur_mes
+Catalunya,2005,552.01
+Catalunya,2006,602.76
+Catalunya,2007,645.36
+Catalunya,2008,677.99
+Catalunya,2009,650.33
+Catalunya,2010,614.55
+Catalunya,2011,599.16
+Catalunya,2012,571.22
+Catalunya,2013,542.18
+Catalunya,2014,539.54
+Catalunya,2015,557.5
+Catalunya,2016,595.66
+Catalunya,2017,654.83
+Catalunya,2018,698.36
+Catalunya,2019,735.36
+Catalunya,2020,734.33
+Catalunya,2021,724.09
+Catalunya,2022,779.84
+Catalunya,2023,835.22
+Catalunya,2024,844.13
+Catalunya,2025,860.67
+Catalunya,2026,869.27
+Metropolità de Barcelona,2005,596
+Metropolità de Barcelona,2006,651.3
+Metropolità de Barcelona,2007,708.69
+Metropolità de Barcelona,2008,749.17
+Metropolità de Barcelona,2009,720.79
+Metropolità de Barcelona,2010,687.28
+Metropolità de Barcelona,2011,670.76
+Metropolità de Barcelona,2012,639.87
+Metropolità de Barcelona,2013,603.67
+Metropolità de Barcelona,2014,603.47
+Metropolità de Barcelona,2015,634.95
+Metropolità de Barcelona,2016,685.38
+Metropolità de Barcelona,2017,753.31
+Metropolità de Barcelona,2018,800.68
+Metropolità de Barcelona,2019,844.29
+Metropolità de Barcelona,2020,842.23
+Metropolità de Barcelona,2021,821.66
+Metropolità de Barcelona,2022,889.37
+Metropolità de Barcelona,2023,960.56
+Metropolità de Barcelona,2024,979.17
+Metropolità de Barcelona,2025,996.71
+Metropolità de Barcelona,2026,1007.24
+Barcelona,2000,408.27
+Barcelona,2001,466.34
+Barcelona,2002,519.81
+Barcelona,2003,550.59
+Barcelona,2004,584.78
+Barcelona,2005,636.02
+Barcelona,2006,695.75
+Barcelona,2007,766.18
+Barcelona,2008,813.02
+Barcelona,2009,792.89
+Barcelona,2010,761.87
+Barcelona,2011,752.86
+Barcelona,2012,720.13
+Barcelona,2013,681.56
+Barcelona,2014,688.23
+Barcelona,2015,734.94
+Barcelona,2016,801.28
+Barcelona,2017,877.28
+Barcelona,2018,929.57
+Barcelona,2019,978.81
+Barcelona,2020,964.81
+Barcelona,2021,918.84
+Barcelona,2022,1026.86
+Barcelona,2023,1136.4
+Barcelona,2024,1147.22
+Barcelona,2025,1134.61
+Barcelona,2026,1139.09
+Ciutat Vella,2000,325.19
+Ciutat Vella,2001,350.92
+Ciutat Vella,2002,412.05
+Ciutat Vella,2003,443.15
+Ciutat Vella,2004,469.86
+Ciutat Vella,2005,539.29
+Ciutat Vella,2006,597.6
+Ciutat Vella,2007,660.96
+Ciutat Vella,2008,729.59
+Ciutat Vella,2009,715.68
+Ciutat Vella,2010,678.79
+Ciutat Vella,2011,663.02
+Ciutat Vella,2012,644.15
+Ciutat Vella,2013,618.67
+Ciutat Vella,2014,639.11
+Ciutat Vella,2015,675.74
+Ciutat Vella,2016,739.23
+Ciutat Vella,2017,828.79
+Ciutat Vella,2018,914.04
+Ciutat Vella,2019,945.53
+Ciutat Vella,2020,913.66
+Ciutat Vella,2021,846.4
+Ciutat Vella,2022,1008.35
+Ciutat Vella,2023,1079.01
+Ciutat Vella,2024,1063.55
+Ciutat Vella,2025,1018.85
+Ciutat Vella,2026,998.69
+el Raval,2014,577.85
+el Raval,2015,625.82
+el Raval,2016,667
+el Raval,2017,748.58
+el Raval,2018,821.84
+el Raval,2019,850.11
+el Raval,2020,833.87
+el Raval,2021,768.78
+el Raval,2022,911.97
+el Raval,2023,959.5
+el Raval,2024,975.42
+el Raval,2025,957.34
+el Raval,2026,906.37
+el Barri Gòtic,2014,749.99
+el Barri Gòtic,2015,786.04
+el Barri Gòtic,2016,868.95
+el Barri Gòtic,2017,973.27
+el Barri Gòtic,2018,1024.78
+el Barri Gòtic,2019,1097.29
+el Barri Gòtic,2020,1035.78
+el Barri Gòtic,2021,947.07
+el Barri Gòtic,2022,1133.36
+el Barri Gòtic,2023,1265.38
+el Barri Gòtic,2024,1195.37
+el Barri Gòtic,2025,1172.05
+el Barri Gòtic,2026,1183.3
+la Barceloneta,2014,563.08
+la Barceloneta,2015,602.62
+la Barceloneta,2016,667.34
+la Barceloneta,2017,745.81
+la Barceloneta,2018,899.37
+la Barceloneta,2019,895.9
+la Barceloneta,2020,867.95
+la Barceloneta,2021,827.09
+la Barceloneta,2022,944.03
+la Barceloneta,2023,991.03
+la Barceloneta,2024,1015.34
+la Barceloneta,2025,881.03
+la Barceloneta,2026,838.56
+"Sant Pere, Santa Caterina i la Ribera",2014,685.14
+"Sant Pere, Santa Caterina i la Ribera",2015,723.45
+"Sant Pere, Santa Caterina i la Ribera",2016,807.26
+"Sant Pere, Santa Caterina i la Ribera",2017,916.65
+"Sant Pere, Santa Caterina i la Ribera",2018,972.07
+"Sant Pere, Santa Caterina i la Ribera",2019,996.35
+"Sant Pere, Santa Caterina i la Ribera",2020,954.48
+"Sant Pere, Santa Caterina i la Ribera",2021,888.27
+"Sant Pere, Santa Caterina i la Ribera",2022,1070.02
+"Sant Pere, Santa Caterina i la Ribera",2023,1138.02
+"Sant Pere, Santa Caterina i la Ribera",2024,1130.56
+"Sant Pere, Santa Caterina i la Ribera",2025,1081.06
+"Sant Pere, Santa Caterina i la Ribera",2026,1118.57
+Eixample,2000,436.38
+Eixample,2001,515.19
+Eixample,2002,564.66
+Eixample,2003,595.48
+Eixample,2004,635.36
+Eixample,2005,703.06
+Eixample,2006,750.73
+Eixample,2007,831.1
+Eixample,2008,891.64
+Eixample,2009,862.85
+Eixample,2010,833.46
+Eixample,2011,821.81
+Eixample,2012,800.45
+Eixample,2013,763.53
+Eixample,2014,776.91
+Eixample,2015,831.44
+Eixample,2016,917.27
+Eixample,2017,990.73
+Eixample,2018,1038.38
+Eixample,2019,1093.7
+Eixample,2020,1075.44
+Eixample,2021,1007.57
+Eixample,2022,1140.42
+Eixample,2023,1274.96
+Eixample,2024,1285.42
+Eixample,2025,1283.96
+Eixample,2026,1269.84
+el Fort Pienc,2014,723.33
+el Fort Pienc,2015,768.12
+el Fort Pienc,2016,823.45
+el Fort Pienc,2017,900.42
+el Fort Pienc,2018,950.32
+el Fort Pienc,2019,1012.41
+el Fort Pienc,2020,1003.12
+el Fort Pienc,2021,941.77
+el Fort Pienc,2022,1071.52
+el Fort Pienc,2023,1179.55
+el Fort Pienc,2024,1178.27
+el Fort Pienc,2025,1134.39
+el Fort Pienc,2026,1094.32
+la Sagrada Família,2014,680.68
+la Sagrada Família,2015,713.15
+la Sagrada Família,2016,775.99
+la Sagrada Família,2017,876.25
+la Sagrada Família,2018,909.59
+la Sagrada Família,2019,960.21
+la Sagrada Família,2020,942.09
+la Sagrada Família,2021,901.98
+la Sagrada Família,2022,1019.4
+la Sagrada Família,2023,1115.11
+la Sagrada Família,2024,1139.79
+la Sagrada Família,2025,1106.99
+la Sagrada Família,2026,1090.22
+la Dreta de l'Eixample,2014,945.88
+la Dreta de l'Eixample,2015,1012.51
+la Dreta de l'Eixample,2016,1138.08
+la Dreta de l'Eixample,2017,1195.23
+la Dreta de l'Eixample,2018,1254.59
+la Dreta de l'Eixample,2019,1307.62
+la Dreta de l'Eixample,2020,1273.5
+la Dreta de l'Eixample,2021,1189.22
+la Dreta de l'Eixample,2022,1389.98
+la Dreta de l'Eixample,2023,1578.63
+la Dreta de l'Eixample,2024,1572.85
+la Dreta de l'Eixample,2025,1596.39
+la Dreta de l'Eixample,2026,1592
+l'Antiga Esquerra de l'Eixample,2014,843.86
+l'Antiga Esquerra de l'Eixample,2015,911.14
+l'Antiga Esquerra de l'Eixample,2016,979.2
+l'Antiga Esquerra de l'Eixample,2017,1060.03
+l'Antiga Esquerra de l'Eixample,2018,1113.08
+l'Antiga Esquerra de l'Eixample,2019,1162.32
+l'Antiga Esquerra de l'Eixample,2020,1155.78
+l'Antiga Esquerra de l'Eixample,2021,1073.73
+l'Antiga Esquerra de l'Eixample,2022,1201.08
+l'Antiga Esquerra de l'Eixample,2023,1352.59
+l'Antiga Esquerra de l'Eixample,2024,1367.99
+l'Antiga Esquerra de l'Eixample,2025,1389.21
+l'Antiga Esquerra de l'Eixample,2026,1353.04
+la Nova Esquerra de l'Eixample,2014,732.13
+la Nova Esquerra de l'Eixample,2015,783.84
+la Nova Esquerra de l'Eixample,2016,870.48
+la Nova Esquerra de l'Eixample,2017,943.23
+la Nova Esquerra de l'Eixample,2018,987.65
+la Nova Esquerra de l'Eixample,2019,1053.83
+la Nova Esquerra de l'Eixample,2020,1034.15
+la Nova Esquerra de l'Eixample,2021,963.14
+la Nova Esquerra de l'Eixample,2022,1069.6
+la Nova Esquerra de l'Eixample,2023,1177.59
+la Nova Esquerra de l'Eixample,2024,1217.86
+la Nova Esquerra de l'Eixample,2025,1203.27
+la Nova Esquerra de l'Eixample,2026,1206.84
+Sant Antoni,2014,711.37
+Sant Antoni,2015,765.61
+Sant Antoni,2016,842.47
+Sant Antoni,2017,900.48
+Sant Antoni,2018,934.34
+Sant Antoni,2019,994.91
+Sant Antoni,2020,971.88
+Sant Antoni,2021,928.49
+Sant Antoni,2022,1037.98
+Sant Antoni,2023,1134.06
+Sant Antoni,2024,1131.89
+Sant Antoni,2025,1118.45
+Sant Antoni,2026,1123.66
+Sants-Montjuïc,2000,336.56
+Sants-Montjuïc,2001,381.93
+Sants-Montjuïc,2002,437.04
+Sants-Montjuïc,2003,453.74
+Sants-Montjuïc,2004,498.79
+Sants-Montjuïc,2005,558.73
+Sants-Montjuïc,2006,620.93
+Sants-Montjuïc,2007,668.85
+Sants-Montjuïc,2008,725.94
+Sants-Montjuïc,2009,698.86
+Sants-Montjuïc,2010,671.91
+Sants-Montjuïc,2011,671.6
+Sants-Montjuïc,2012,633.08
+Sants-Montjuïc,2013,596.42
+Sants-Montjuïc,2014,598.43
+Sants-Montjuïc,2015,624.52
+Sants-Montjuïc,2016,678.78
+Sants-Montjuïc,2017,763.17
+Sants-Montjuïc,2018,803.74
+Sants-Montjuïc,2019,841.49
+Sants-Montjuïc,2020,846.88
+Sants-Montjuïc,2021,799.69
+Sants-Montjuïc,2022,916.86
+Sants-Montjuïc,2023,1032.2
+Sants-Montjuïc,2024,981.34
+Sants-Montjuïc,2025,1001.04
+Sants-Montjuïc,2026,1001.97
+el Poble Sec - AEI Parc Montjuïc,2014,582.6
+el Poble Sec - AEI Parc Montjuïc,2015,612.15
+el Poble Sec - AEI Parc Montjuïc,2016,669.53
+el Poble Sec - AEI Parc Montjuïc,2017,749.52
+el Poble Sec - AEI Parc Montjuïc,2018,801.81
+el Poble Sec - AEI Parc Montjuïc,2019,837.05
+el Poble Sec - AEI Parc Montjuïc,2020,827.43
+el Poble Sec - AEI Parc Montjuïc,2021,780.11
+el Poble Sec - AEI Parc Montjuïc,2022,881.29
+el Poble Sec - AEI Parc Montjuïc,2023,937.28
+el Poble Sec - AEI Parc Montjuïc,2024,959.22
+el Poble Sec - AEI Parc Montjuïc,2025,942.55
+el Poble Sec - AEI Parc Montjuïc,2026,952.65
+la Marina del Prat Vermell - AEI Zona Franca,2014,450
+la Marina del Prat Vermell - AEI Zona Franca,2015,404.71
+la Marina del Prat Vermell - AEI Zona Franca,2016,356.56
+la Marina del Prat Vermell - AEI Zona Franca,2019,374.35
+la Marina del Prat Vermell - AEI Zona Franca,2021,430.59
+la Marina del Prat Vermell - AEI Zona Franca,2022,1456.6
+la Marina del Prat Vermell - AEI Zona Franca,2023,1451.08
+la Marina del Prat Vermell - AEI Zona Franca,2024,751.57
+la Marina del Prat Vermell - AEI Zona Franca,2025,1389.56
+la Marina del Prat Vermell - AEI Zona Franca,2026,1391.62
+la Marina de Port,2014,527.28
+la Marina de Port,2015,542.27
+la Marina de Port,2016,544.38
+la Marina de Port,2017,691.42
+la Marina de Port,2018,751.06
+la Marina de Port,2019,766.25
+la Marina de Port,2020,787.09
+la Marina de Port,2021,743.15
+la Marina de Port,2022,723.77
+la Marina de Port,2023,885.14
+la Marina de Port,2024,843.34
+la Marina de Port,2025,885.1
+la Marina de Port,2026,943.85
+la Font de la Guatlla,2014,644.64
+la Font de la Guatlla,2015,695.2
+la Font de la Guatlla,2016,737.15
+la Font de la Guatlla,2017,811.08
+la Font de la Guatlla,2018,839.71
+la Font de la Guatlla,2019,865.92
+la Font de la Guatlla,2020,859.28
+la Font de la Guatlla,2021,826.71
+la Font de la Guatlla,2022,928.16
+la Font de la Guatlla,2023,1047.2
+la Font de la Guatlla,2024,1021.01
+la Font de la Guatlla,2025,1043.88
+la Font de la Guatlla,2026,1032.58
+Hostafrancs,2014,593.91
+Hostafrancs,2015,624.65
+Hostafrancs,2016,687.85
+Hostafrancs,2017,747.09
+Hostafrancs,2018,796.27
+Hostafrancs,2019,830.56
+Hostafrancs,2020,852.27
+Hostafrancs,2021,789.78
+Hostafrancs,2022,879.98
+Hostafrancs,2023,967.86
+Hostafrancs,2024,961.16
+Hostafrancs,2025,959.63
+Hostafrancs,2026,951.51
+la Bordeta,2014,611.37
+la Bordeta,2015,638.46
+la Bordeta,2016,678.86
+la Bordeta,2017,789.98
+la Bordeta,2018,801.44
+la Bordeta,2019,851.22
+la Bordeta,2020,861.8
+la Bordeta,2021,832.35
+la Bordeta,2022,1124.52
+la Bordeta,2023,1326.18
+la Bordeta,2024,1186.39
+la Bordeta,2025,1185.81
+la Bordeta,2026,1152.8
+Sants - Badal,2014,597.28
+Sants - Badal,2015,626.57
+Sants - Badal,2016,691.17
+Sants - Badal,2017,759.18
+Sants - Badal,2018,784.54
+Sants - Badal,2019,851.58
+Sants - Badal,2020,845.39
+Sants - Badal,2021,793.28
+Sants - Badal,2022,881.06
+Sants - Badal,2023,981.5
+Sants - Badal,2024,966.78
+Sants - Badal,2025,942.87
+Sants - Badal,2026,965.75
+Sants,2014,624.12
+Sants,2015,653.3
+Sants,2016,711.32
+Sants,2017,787.23
+Sants,2018,826.18
+Sants,2019,877.79
+Sants,2020,874.47
+Sants,2021,828.99
+Sants,2022,906.89
+Sants,2023,1006.76
+Sants,2024,1008.8
+Sants,2025,994.85
+Sants,2026,1016.26
+Les Corts,2000,567.73
+Les Corts,2001,627
+Les Corts,2002,621.48
+Les Corts,2003,667.71
+Les Corts,2004,705.08
+Les Corts,2005,742.43
+Les Corts,2006,829.15
+Les Corts,2007,955.43
+Les Corts,2008,990.58
+Les Corts,2009,933.72
+Les Corts,2010,908.94
+Les Corts,2011,891.45
+Les Corts,2012,867.36
+Les Corts,2013,826.71
+Les Corts,2014,853
+Les Corts,2015,925.45
+Les Corts,2016,985.94
+Les Corts,2017,1052.3
+Les Corts,2018,1089.53
+Les Corts,2019,1156.95
+Les Corts,2020,1112.5
+Les Corts,2021,1054.14
+Les Corts,2022,1185.71
+Les Corts,2023,1294.2
+Les Corts,2024,1344.58
+Les Corts,2025,1334.7
+Les Corts,2026,1271.55
+les Corts,2014,782.88
+les Corts,2015,856.34
+les Corts,2016,939.1
+les Corts,2017,1002.47
+les Corts,2018,1039.61
+les Corts,2019,1097.24
+les Corts,2020,1060.71
+les Corts,2021,1015
+les Corts,2022,1129.45
+les Corts,2023,1215.76
+les Corts,2024,1276.77
+les Corts,2025,1298.64
+les Corts,2026,1214.05
+la Maternitat i Sant Ramon,2014,760.26
+la Maternitat i Sant Ramon,2015,756.62
+la Maternitat i Sant Ramon,2016,847.88
+la Maternitat i Sant Ramon,2017,925.16
+la Maternitat i Sant Ramon,2018,973.55
+la Maternitat i Sant Ramon,2019,1009.21
+la Maternitat i Sant Ramon,2020,992.69
+la Maternitat i Sant Ramon,2021,935.93
+la Maternitat i Sant Ramon,2022,1068.72
+la Maternitat i Sant Ramon,2023,1190.13
+la Maternitat i Sant Ramon,2024,1166.54
+la Maternitat i Sant Ramon,2025,1160.33
+la Maternitat i Sant Ramon,2026,1156.55
+Pedralbes,2014,1473.83
+Pedralbes,2015,1729.95
+Pedralbes,2016,1661.83
+Pedralbes,2017,1785.63
+Pedralbes,2018,1739.6
+Pedralbes,2019,1860.56
+Pedralbes,2020,1718.24
+Pedralbes,2021,1699.09
+Pedralbes,2022,1813.9
+Pedralbes,2023,1952
+Pedralbes,2024,2088.15
+Pedralbes,2025,1947.79
+Pedralbes,2026,1900.63
+Sarrià-Sant Gervasi,2000,631.19
+Sarrià-Sant Gervasi,2001,659.92
+Sarrià-Sant Gervasi,2002,742.94
+Sarrià-Sant Gervasi,2003,762.15
+Sarrià-Sant Gervasi,2004,823.76
+Sarrià-Sant Gervasi,2005,863.57
+Sarrià-Sant Gervasi,2006,917.66
+Sarrià-Sant Gervasi,2007,1014.24
+Sarrià-Sant Gervasi,2008,1081.91
+Sarrià-Sant Gervasi,2009,1029.3
+Sarrià-Sant Gervasi,2010,998.61
+Sarrià-Sant Gervasi,2011,1017.11
+Sarrià-Sant Gervasi,2012,984.44
+Sarrià-Sant Gervasi,2013,935.47
+Sarrià-Sant Gervasi,2014,978.02
+Sarrià-Sant Gervasi,2015,1051.23
+Sarrià-Sant Gervasi,2016,1144.71
+Sarrià-Sant Gervasi,2017,1227.89
+Sarrià-Sant Gervasi,2018,1268.92
+Sarrià-Sant Gervasi,2019,1316.57
+Sarrià-Sant Gervasi,2020,1305.73
+Sarrià-Sant Gervasi,2021,1246.4
+Sarrià-Sant Gervasi,2022,1384.06
+Sarrià-Sant Gervasi,2023,1550.79
+Sarrià-Sant Gervasi,2024,1615.69
+Sarrià-Sant Gervasi,2025,1603.74
+Sarrià-Sant Gervasi,2026,1595.37
+"Vallvidrera, el Tibidabo i les Planes",2014,1134.25
+"Vallvidrera, el Tibidabo i les Planes",2015,1006.53
+"Vallvidrera, el Tibidabo i les Planes",2016,1153.38
+"Vallvidrera, el Tibidabo i les Planes",2017,1220
+"Vallvidrera, el Tibidabo i les Planes",2018,937.55
+"Vallvidrera, el Tibidabo i les Planes",2019,1205.65
+"Vallvidrera, el Tibidabo i les Planes",2020,1233.07
+"Vallvidrera, el Tibidabo i les Planes",2021,1236.96
+"Vallvidrera, el Tibidabo i les Planes",2022,1107.02
+"Vallvidrera, el Tibidabo i les Planes",2023,1255.94
+"Vallvidrera, el Tibidabo i les Planes",2024,1487.43
+"Vallvidrera, el Tibidabo i les Planes",2025,1613.61
+"Vallvidrera, el Tibidabo i les Planes",2026,1638.76
+Sarrià,2014,1041.15
+Sarrià,2015,1109.66
+Sarrià,2016,1187.49
+Sarrià,2017,1353.86
+Sarrià,2018,1368.51
+Sarrià,2019,1375.1
+Sarrià,2020,1366.24
+Sarrià,2021,1303.06
+Sarrià,2022,1431.69
+Sarrià,2023,1528.45
+Sarrià,2024,1563.98
+Sarrià,2025,1666.96
+Sarrià,2026,1591
+les Tres Torres,2014,1323.89
+les Tres Torres,2015,1385.04
+les Tres Torres,2016,1515
+les Tres Torres,2017,1634.12
+les Tres Torres,2018,1599.89
+les Tres Torres,2019,1657.03
+les Tres Torres,2020,1696.12
+les Tres Torres,2021,1544.17
+les Tres Torres,2022,1807.02
+les Tres Torres,2023,1955.53
+les Tres Torres,2024,2067.17
+les Tres Torres,2025,2013.98
+les Tres Torres,2026,2084.69
+Sant Gervasi - la Bonanova,2014,942.56
+Sant Gervasi - la Bonanova,2015,1046.44
+Sant Gervasi - la Bonanova,2016,1125.32
+Sant Gervasi - la Bonanova,2017,1236.68
+Sant Gervasi - la Bonanova,2018,1285.61
+Sant Gervasi - la Bonanova,2019,1304.34
+Sant Gervasi - la Bonanova,2020,1301.13
+Sant Gervasi - la Bonanova,2021,1216.91
+Sant Gervasi - la Bonanova,2022,1360.14
+Sant Gervasi - la Bonanova,2023,1507.67
+Sant Gervasi - la Bonanova,2024,1667.28
+Sant Gervasi - la Bonanova,2025,1658.79
+Sant Gervasi - la Bonanova,2026,1544.77
+Sant Gervasi - Galvany,2014,1047.42
+Sant Gervasi - Galvany,2015,1156.26
+Sant Gervasi - Galvany,2016,1241.82
+Sant Gervasi - Galvany,2017,1311.47
+Sant Gervasi - Galvany,2018,1347.84
+Sant Gervasi - Galvany,2019,1397.27
+Sant Gervasi - Galvany,2020,1362.28
+Sant Gervasi - Galvany,2021,1355.48
+Sant Gervasi - Galvany,2022,1487.73
+Sant Gervasi - Galvany,2023,1696.01
+Sant Gervasi - Galvany,2024,1739.51
+Sant Gervasi - Galvany,2025,1731.73
+Sant Gervasi - Galvany,2026,1778.36
+el Putxet i el Farró,2014,760.35
+el Putxet i el Farró,2015,799.69
+el Putxet i el Farró,2016,876.64
+el Putxet i el Farró,2017,930.19
+el Putxet i el Farró,2018,995.37
+el Putxet i el Farró,2019,1086.42
+el Putxet i el Farró,2020,1056.08
+el Putxet i el Farró,2021,1003.63
+el Putxet i el Farró,2022,1115.86
+el Putxet i el Farró,2023,1255.39
+el Putxet i el Farró,2024,1279.47
+el Putxet i el Farró,2025,1201.97
+el Putxet i el Farró,2026,1232.09
+Gràcia,2000,370.86
+Gràcia,2001,425.72
+Gràcia,2002,495.73
+Gràcia,2003,507.39
+Gràcia,2004,548.96
+Gràcia,2005,620.95
+Gràcia,2006,668.71
+Gràcia,2007,741.59
+Gràcia,2008,792.07
+Gràcia,2009,762.28
+Gràcia,2010,738.73
+Gràcia,2011,737.05
+Gràcia,2012,706.6
+Gràcia,2013,659.25
+Gràcia,2014,673.86
+Gràcia,2015,721.65
+Gràcia,2016,787.86
+Gràcia,2017,856.42
+Gràcia,2018,904.53
+Gràcia,2019,957.73
+Gràcia,2020,950.36
+Gràcia,2021,896.35
+Gràcia,2022,999.77
+Gràcia,2023,1117.96
+Gràcia,2024,1151.01
+Gràcia,2025,1082.33
+Gràcia,2026,1088.65
+Vallcarca i els Penitents,2014,665.48
+Vallcarca i els Penitents,2015,735.76
+Vallcarca i els Penitents,2016,787.7
+Vallcarca i els Penitents,2017,910.93
+Vallcarca i els Penitents,2018,925.02
+Vallcarca i els Penitents,2019,972.22
+Vallcarca i els Penitents,2020,982.49
+Vallcarca i els Penitents,2021,941.49
+Vallcarca i els Penitents,2022,1006.76
+Vallcarca i els Penitents,2023,1137.67
+Vallcarca i els Penitents,2024,1181.09
+Vallcarca i els Penitents,2025,1088.84
+Vallcarca i els Penitents,2026,1150
+el Coll,2014,555.87
+el Coll,2015,557
+el Coll,2016,620.03
+el Coll,2017,724.94
+el Coll,2018,740.36
+el Coll,2019,801.98
+el Coll,2020,809.27
+el Coll,2021,762.6
+el Coll,2022,808.04
+el Coll,2023,922.23
+el Coll,2024,903.91
+el Coll,2025,905.57
+el Coll,2026,991.53
+la Salut,2014,668.51
+la Salut,2015,705.21
+la Salut,2016,773.44
+la Salut,2017,799.97
+la Salut,2018,877.3
+la Salut,2019,918.31
+la Salut,2020,967.26
+la Salut,2021,888.46
+la Salut,2022,955.49
+la Salut,2023,1090.36
+la Salut,2024,1151.38
+la Salut,2025,1068.66
+la Salut,2026,1082.2
+la Vila de Gràcia,2014,681.71
+la Vila de Gràcia,2015,733.12
+la Vila de Gràcia,2016,799.64
+la Vila de Gràcia,2017,860.63
+la Vila de Gràcia,2018,915.88
+la Vila de Gràcia,2019,962.95
+la Vila de Gràcia,2020,953.38
+la Vila de Gràcia,2021,900.77
+la Vila de Gràcia,2022,1017.11
+la Vila de Gràcia,2023,1125.77
+la Vila de Gràcia,2024,1155.69
+la Vila de Gràcia,2025,1089.93
+la Vila de Gràcia,2026,1085.83
+el Camp d'en Grassot i Gràcia Nova,2014,683.32
+el Camp d'en Grassot i Gràcia Nova,2015,725.4
+el Camp d'en Grassot i Gràcia Nova,2016,803.49
+el Camp d'en Grassot i Gràcia Nova,2017,864.07
+el Camp d'en Grassot i Gràcia Nova,2018,908.89
+el Camp d'en Grassot i Gràcia Nova,2019,983.36
+el Camp d'en Grassot i Gràcia Nova,2020,953.07
+el Camp d'en Grassot i Gràcia Nova,2021,892.02
+el Camp d'en Grassot i Gràcia Nova,2022,1007.49
+el Camp d'en Grassot i Gràcia Nova,2023,1138.44
+el Camp d'en Grassot i Gràcia Nova,2024,1177.72
+el Camp d'en Grassot i Gràcia Nova,2025,1105.28
+el Camp d'en Grassot i Gràcia Nova,2026,1092.85
+Horta-Guinardó,2000,334.52
+Horta-Guinardó,2001,390.5
+Horta-Guinardó,2002,421.21
+Horta-Guinardó,2003,463.88
+Horta-Guinardó,2004,501.24
+Horta-Guinardó,2005,552.09
+Horta-Guinardó,2006,630
+Horta-Guinardó,2007,660.29
+Horta-Guinardó,2008,718.36
+Horta-Guinardó,2009,689.68
+Horta-Guinardó,2010,652.11
+Horta-Guinardó,2011,636.73
+Horta-Guinardó,2012,605.92
+Horta-Guinardó,2013,566.51
+Horta-Guinardó,2014,563.76
+Horta-Guinardó,2015,586.85
+Horta-Guinardó,2016,640.15
+Horta-Guinardó,2017,706.63
+Horta-Guinardó,2018,746.16
+Horta-Guinardó,2019,794.88
+Horta-Guinardó,2020,799.32
+Horta-Guinardó,2021,768.82
+Horta-Guinardó,2022,819.71
+Horta-Guinardó,2023,915.9
+Horta-Guinardó,2024,924.71
+Horta-Guinardó,2025,909.13
+Horta-Guinardó,2026,925.17
+el Baix Guinardó,2014,620.97
+el Baix Guinardó,2015,642.64
+el Baix Guinardó,2016,701.99
+el Baix Guinardó,2017,770.94
+el Baix Guinardó,2018,828.8
+el Baix Guinardó,2019,882.01
+el Baix Guinardó,2020,890.5
+el Baix Guinardó,2021,823.6
+el Baix Guinardó,2022,911.03
+el Baix Guinardó,2023,1028.55
+el Baix Guinardó,2024,1017.49
+el Baix Guinardó,2025,997.65
+el Baix Guinardó,2026,1008.21
+Can Baró,2014,542.72
+Can Baró,2015,553.97
+Can Baró,2016,636.75
+Can Baró,2017,686.96
+Can Baró,2018,738.12
+Can Baró,2019,769.06
+Can Baró,2020,787.71
+Can Baró,2021,756.37
+Can Baró,2022,806.36
+Can Baró,2023,890.02
+Can Baró,2024,917.26
+Can Baró,2025,846.8
+Can Baró,2026,891.46
+el Guinardó,2014,581.39
+el Guinardó,2015,612.9
+el Guinardó,2016,666.44
+el Guinardó,2017,736.91
+el Guinardó,2018,771.48
+el Guinardó,2019,819.05
+el Guinardó,2020,822.9
+el Guinardó,2021,809.12
+el Guinardó,2022,847.08
+el Guinardó,2023,964.5
+el Guinardó,2024,974.21
+el Guinardó,2025,958.54
+el Guinardó,2026,955.67
+la Font d'en Fargues,2014,712.41
+la Font d'en Fargues,2015,723.54
+la Font d'en Fargues,2016,717.41
+la Font d'en Fargues,2017,817.1
+la Font d'en Fargues,2018,828.28
+la Font d'en Fargues,2019,885.61
+la Font d'en Fargues,2020,918.15
+la Font d'en Fargues,2021,815.23
+la Font d'en Fargues,2022,873.5
+la Font d'en Fargues,2023,1057.51
+la Font d'en Fargues,2024,1088.77
+la Font d'en Fargues,2025,1044.46
+la Font d'en Fargues,2026,1120.4
+el Carmel,2014,495
+el Carmel,2015,510.98
+el Carmel,2016,554.95
+el Carmel,2017,603.34
+el Carmel,2018,644.34
+el Carmel,2019,685.1
+el Carmel,2020,687.01
+el Carmel,2021,674.45
+el Carmel,2022,727.2
+el Carmel,2023,776.53
+el Carmel,2024,796.68
+el Carmel,2025,781.06
+el Carmel,2026,803.19
+la Teixonera,2014,486.44
+la Teixonera,2015,519.68
+la Teixonera,2016,578.63
+la Teixonera,2017,648.9
+la Teixonera,2018,701.69
+la Teixonera,2019,738.87
+la Teixonera,2020,718.38
+la Teixonera,2021,714.78
+la Teixonera,2022,779.33
+la Teixonera,2023,847.18
+la Teixonera,2024,864.15
+la Teixonera,2025,865.16
+la Teixonera,2026,851.49
+Sant Genís dels Agudells,2014,553.89
+Sant Genís dels Agudells,2015,551.2
+Sant Genís dels Agudells,2016,609.3
+Sant Genís dels Agudells,2017,674.67
+Sant Genís dels Agudells,2018,656.13
+Sant Genís dels Agudells,2019,738.54
+Sant Genís dels Agudells,2020,730.91
+Sant Genís dels Agudells,2021,704.57
+Sant Genís dels Agudells,2022,734.38
+Sant Genís dels Agudells,2023,822.6
+Sant Genís dels Agudells,2024,798.63
+Sant Genís dels Agudells,2025,831.33
+Sant Genís dels Agudells,2026,824.25
+Montbau,2014,552.54
+Montbau,2015,630.37
+Montbau,2016,644.26
+Montbau,2017,724.77
+Montbau,2018,737.83
+Montbau,2019,793.93
+Montbau,2020,784.56
+Montbau,2021,740.43
+Montbau,2022,793.69
+Montbau,2023,896.2
+Montbau,2024,905.73
+Montbau,2025,869.98
+Montbau,2026,887.89
+la Vall d'Hebron,2014,699.39
+la Vall d'Hebron,2015,696.29
+la Vall d'Hebron,2016,767.36
+la Vall d'Hebron,2017,828.96
+la Vall d'Hebron,2018,859.76
+la Vall d'Hebron,2019,864.65
+la Vall d'Hebron,2020,890.04
+la Vall d'Hebron,2021,861.95
+la Vall d'Hebron,2022,906.54
+la Vall d'Hebron,2023,945.88
+la Vall d'Hebron,2024,1030.87
+la Vall d'Hebron,2025,976.16
+la Vall d'Hebron,2026,1025.1
+la Clota,2014,480
+la Clota,2015,350.25
+la Clota,2016,538.75
+la Clota,2017,651.25
+la Clota,2018,500.42
+la Clota,2019,666.18
+la Clota,2020,589.84
+la Clota,2021,742.78
+la Clota,2023,829.08
+la Clota,2024,1036.61
+la Clota,2025,1073.66
+Horta,2014,567.24
+Horta,2015,579.9
+Horta,2016,630.61
+Horta,2017,698.37
+Horta,2018,747.32
+Horta,2019,782.94
+Horta,2020,785.02
+Horta,2021,749.19
+Horta,2022,801.78
+Horta,2023,895.59
+Horta,2024,915.21
+Horta,2025,896.65
+Horta,2026,916.58
+Nou Barris,2000,330.99
+Nou Barris,2001,369.37
+Nou Barris,2002,426.97
+Nou Barris,2003,438.43
+Nou Barris,2004,472.72
+Nou Barris,2005,513.48
+Nou Barris,2006,582.13
+Nou Barris,2007,632.13
+Nou Barris,2008,676.51
+Nou Barris,2009,653.28
+Nou Barris,2010,621.46
+Nou Barris,2011,609.43
+Nou Barris,2012,551.69
+Nou Barris,2013,513.82
+Nou Barris,2014,499.31
+Nou Barris,2015,518.8
+Nou Barris,2016,561.07
+Nou Barris,2017,625.51
+Nou Barris,2018,674.59
+Nou Barris,2019,704.52
+Nou Barris,2020,705.51
+Nou Barris,2021,684.49
+Nou Barris,2022,730.36
+Nou Barris,2023,796.81
+Nou Barris,2024,796.22
+Nou Barris,2025,796.21
+Nou Barris,2026,807.54
+Vilapicina i la Torre Llobeta,2014,568.23
+Vilapicina i la Torre Llobeta,2015,586.63
+Vilapicina i la Torre Llobeta,2016,638.53
+Vilapicina i la Torre Llobeta,2017,714.83
+Vilapicina i la Torre Llobeta,2018,744.08
+Vilapicina i la Torre Llobeta,2019,781.73
+Vilapicina i la Torre Llobeta,2020,797.45
+Vilapicina i la Torre Llobeta,2021,761.06
+Vilapicina i la Torre Llobeta,2022,826.42
+Vilapicina i la Torre Llobeta,2023,906.9
+Vilapicina i la Torre Llobeta,2024,910.72
+Vilapicina i la Torre Llobeta,2025,887.81
+Vilapicina i la Torre Llobeta,2026,898.32
+Porta,2014,529.55
+Porta,2015,555.04
+Porta,2016,603.59
+Porta,2017,662.04
+Porta,2018,706.25
+Porta,2019,751.42
+Porta,2020,724.3
+Porta,2021,714.62
+Porta,2022,758.41
+Porta,2023,836.49
+Porta,2024,836.42
+Porta,2025,818.77
+Porta,2026,875.4
+el Turó de la Peira,2014,473.16
+el Turó de la Peira,2015,504.34
+el Turó de la Peira,2016,552.19
+el Turó de la Peira,2017,615.5
+el Turó de la Peira,2018,676.57
+el Turó de la Peira,2019,697.25
+el Turó de la Peira,2020,695.7
+el Turó de la Peira,2021,682.96
+el Turó de la Peira,2022,725.7
+el Turó de la Peira,2023,765.97
+el Turó de la Peira,2024,788.18
+el Turó de la Peira,2025,757.2
+el Turó de la Peira,2026,735.34
+Can Peguera,2014,221.13
+Can Peguera,2015,211.35
+Can Peguera,2016,253.1
+Can Peguera,2017,417.84
+Can Peguera,2018,439.63
+Can Peguera,2019,419.43
+Can Peguera,2020,365.56
+Can Peguera,2024,545.62
+Can Peguera,2025,395.32
+Can Peguera,2026,378.26
+la Guineueta,2014,614.56
+la Guineueta,2015,562.81
+la Guineueta,2016,623.36
+la Guineueta,2017,650.05
+la Guineueta,2018,714.86
+la Guineueta,2019,744.16
+la Guineueta,2020,737.89
+la Guineueta,2021,678.37
+la Guineueta,2022,760.7
+la Guineueta,2023,843.23
+la Guineueta,2024,879.04
+la Guineueta,2025,902.38
+la Guineueta,2026,854.22
+Canyelles,2014,536.41
+Canyelles,2015,563.96
+Canyelles,2016,625.61
+Canyelles,2017,680.56
+Canyelles,2018,716.55
+Canyelles,2019,752.08
+Canyelles,2020,769.17
+Canyelles,2021,746.77
+Canyelles,2022,803.4
+Canyelles,2023,832.47
+Canyelles,2024,873.37
+Canyelles,2025,791.01
+Canyelles,2026,854.3
+les Roquetes,2014,450.76
+les Roquetes,2015,463.73
+les Roquetes,2016,489.55
+les Roquetes,2017,533.39
+les Roquetes,2018,602.08
+les Roquetes,2019,621.17
+les Roquetes,2020,638.83
+les Roquetes,2021,622.58
+les Roquetes,2022,666.39
+les Roquetes,2023,734.3
+les Roquetes,2024,721.1
+les Roquetes,2025,701.28
+les Roquetes,2026,713.76
+Verdun,2014,487.88
+Verdun,2015,470.4
+Verdun,2016,533.33
+Verdun,2017,591.66
+Verdun,2018,630.64
+Verdun,2019,663.4
+Verdun,2020,660.43
+Verdun,2021,648
+Verdun,2022,645.25
+Verdun,2023,753.35
+Verdun,2024,716.54
+Verdun,2025,759.21
+Verdun,2026,735.84
+la Prosperitat,2014,504.86
+la Prosperitat,2015,530.26
+la Prosperitat,2016,562.3
+la Prosperitat,2017,628.11
+la Prosperitat,2018,665.59
+la Prosperitat,2019,684.4
+la Prosperitat,2020,700.88
+la Prosperitat,2021,676.48
+la Prosperitat,2022,725.4
+la Prosperitat,2023,784.91
+la Prosperitat,2024,791.61
+la Prosperitat,2025,818.6
+la Prosperitat,2026,845.53
+la Trinitat Nova,2014,434.42
+la Trinitat Nova,2015,448.32
+la Trinitat Nova,2016,431.1
+la Trinitat Nova,2017,541.48
+la Trinitat Nova,2018,580.85
+la Trinitat Nova,2019,606.73
+la Trinitat Nova,2020,586.57
+la Trinitat Nova,2021,594.65
+la Trinitat Nova,2022,628.77
+la Trinitat Nova,2023,657.39
+la Trinitat Nova,2024,712.53
+la Trinitat Nova,2025,636.12
+la Trinitat Nova,2026,663.42
+Torre Baró,2014,334.46
+Torre Baró,2015,404.92
+Torre Baró,2016,412.6
+Torre Baró,2017,425.64
+Torre Baró,2018,512.49
+Torre Baró,2019,471.76
+Torre Baró,2020,525.89
+Torre Baró,2021,538.13
+Torre Baró,2022,553.47
+Torre Baró,2023,494.68
+Torre Baró,2024,452.65
+Torre Baró,2025,577.49
+Torre Baró,2026,823.23
+Ciutat Meridiana,2014,372.85
+Ciutat Meridiana,2015,396.43
+Ciutat Meridiana,2016,402.63
+Ciutat Meridiana,2017,435.36
+Ciutat Meridiana,2018,506.44
+Ciutat Meridiana,2019,562.08
+Ciutat Meridiana,2020,539.42
+Ciutat Meridiana,2021,526.95
+Ciutat Meridiana,2022,563.88
+Ciutat Meridiana,2023,611.71
+Ciutat Meridiana,2024,628.19
+Ciutat Meridiana,2025,600.78
+Ciutat Meridiana,2026,576.02
+Vallbona,2014,281.71
+Vallbona,2015,415.08
+Vallbona,2016,469.73
+Vallbona,2017,476.43
+Vallbona,2018,613.86
+Vallbona,2019,581.97
+Vallbona,2020,584.06
+Vallbona,2021,517.89
+Vallbona,2022,616.18
+Vallbona,2025,697.54
+Sant Andreu (Distrito),2000,339.49
+Sant Andreu (Distrito),2001,385.04
+Sant Andreu (Distrito),2002,431.44
+Sant Andreu (Distrito),2003,462.25
+Sant Andreu (Distrito),2004,508.35
+Sant Andreu (Distrito),2005,569.4
+Sant Andreu (Distrito),2006,601.72
+Sant Andreu (Distrito),2007,675.82
+Sant Andreu (Distrito),2008,723.9
+Sant Andreu (Distrito),2009,707.23
+Sant Andreu (Distrito),2010,672.73
+Sant Andreu (Distrito),2011,658.37
+Sant Andreu (Distrito),2012,626.83
+Sant Andreu (Distrito),2013,578.5
+Sant Andreu (Distrito),2014,575.16
+Sant Andreu (Distrito),2015,611
+Sant Andreu (Distrito),2016,644.91
+Sant Andreu (Distrito),2017,705.66
+Sant Andreu (Distrito),2018,762.71
+Sant Andreu (Distrito),2019,796.31
+Sant Andreu (Distrito),2020,797.82
+Sant Andreu (Distrito),2021,764.07
+Sant Andreu (Distrito),2022,829.38
+Sant Andreu (Distrito),2023,910.36
+Sant Andreu (Distrito),2024,919.9
+Sant Andreu (Distrito),2025,903.64
+Sant Andreu (Distrito),2026,927.99
+la Trinitat Vella,2014,422.91
+la Trinitat Vella,2015,441.48
+la Trinitat Vella,2016,479.29
+la Trinitat Vella,2017,497.6
+la Trinitat Vella,2018,586.48
+la Trinitat Vella,2019,602.88
+la Trinitat Vella,2020,639.68
+la Trinitat Vella,2021,606.9
+la Trinitat Vella,2022,646.46
+la Trinitat Vella,2023,714.32
+la Trinitat Vella,2024,658.22
+la Trinitat Vella,2025,681.85
+la Trinitat Vella,2026,766.71
+Baró de Viver,2014,241.15
+Baró de Viver,2015,287.39
+Baró de Viver,2016,216.41
+Baró de Viver,2017,458.37
+Baró de Viver,2018,621.01
+Baró de Viver,2019,486.2
+Baró de Viver,2020,581.9
+Baró de Viver,2021,556.69
+Baró de Viver,2022,615.98
+Baró de Viver,2023,699.5
+Baró de Viver,2024,524.3
+Baró de Viver,2025,554.77
+el Bon Pastor,2014,496.58
+el Bon Pastor,2015,537.29
+el Bon Pastor,2016,540.41
+el Bon Pastor,2017,627.45
+el Bon Pastor,2018,682.81
+el Bon Pastor,2019,685.57
+el Bon Pastor,2020,726.61
+el Bon Pastor,2021,683.36
+el Bon Pastor,2022,741.07
+el Bon Pastor,2023,724.89
+el Bon Pastor,2024,713.26
+el Bon Pastor,2025,765.54
+el Bon Pastor,2026,725.05
+Sant Andreu (Barrio),2014,576.6
+Sant Andreu (Barrio),2015,613.34
+Sant Andreu (Barrio),2016,658.6
+Sant Andreu (Barrio),2017,733.94
+Sant Andreu (Barrio),2018,764.83
+Sant Andreu (Barrio),2019,805.29
+Sant Andreu (Barrio),2020,810.03
+Sant Andreu (Barrio),2021,766.65
+Sant Andreu (Barrio),2022,821.23
+Sant Andreu (Barrio),2023,910.97
+Sant Andreu (Barrio),2024,923.52
+Sant Andreu (Barrio),2025,880.33
+Sant Andreu (Barrio),2026,919.81
+la Sagrera,2014,607.04
+la Sagrera,2015,636.6
+la Sagrera,2016,665.59
+la Sagrera,2017,667.56
+la Sagrera,2018,780.89
+la Sagrera,2019,817.35
+la Sagrera,2020,783.89
+la Sagrera,2021,768.29
+la Sagrera,2022,865.53
+la Sagrera,2023,968.21
+la Sagrera,2024,1009.78
+la Sagrera,2025,979.2
+la Sagrera,2026,985.06
+el Congrés i els Indians,2014,583.67
+el Congrés i els Indians,2015,610.94
+el Congrés i els Indians,2016,649.67
+el Congrés i els Indians,2017,730.84
+el Congrés i els Indians,2018,774.38
+el Congrés i els Indians,2019,793.43
+el Congrés i els Indians,2020,804.95
+el Congrés i els Indians,2021,775.46
+el Congrés i els Indians,2022,830.65
+el Congrés i els Indians,2023,924.38
+el Congrés i els Indians,2024,945.32
+el Congrés i els Indians,2025,898.32
+el Congrés i els Indians,2026,937.79
+Navas,2014,623.78
+Navas,2015,672.02
+Navas,2016,714.1
+Navas,2017,777.64
+Navas,2018,813.23
+Navas,2019,853.36
+Navas,2020,864.07
+Navas,2021,820.3
+Navas,2022,884.21
+Navas,2023,974.31
+Navas,2024,989.81
+Navas,2025,980.13
+Navas,2026,998.69
+Sant Martí,2000,341.65
+Sant Martí,2001,398.12
+Sant Martí,2002,467.71
+Sant Martí,2003,484.76
+Sant Martí,2004,531.91
+Sant Martí,2005,605.93
+Sant Martí,2006,682.06
+Sant Martí,2007,730.62
+Sant Martí,2008,770.16
+Sant Martí,2009,738.26
+Sant Martí,2010,727.5
+Sant Martí,2011,705.39
+Sant Martí,2012,673.6
+Sant Martí,2013,637.39
+Sant Martí,2014,640.81
+Sant Martí,2015,700.56
+Sant Martí,2016,771.41
+Sant Martí,2017,842.33
+Sant Martí,2018,884.51
+Sant Martí,2019,941.71
+Sant Martí,2020,929.91
+Sant Martí,2021,888.34
+Sant Martí,2022,1000.16
+Sant Martí,2023,1101.75
+Sant Martí,2024,1098.81
+Sant Martí,2025,1094
+Sant Martí,2026,1128.32
+el Camp de l'Arpa del Clot,2014,598.82
+el Camp de l'Arpa del Clot,2015,644.01
+el Camp de l'Arpa del Clot,2016,697.99
+el Camp de l'Arpa del Clot,2017,778.14
+el Camp de l'Arpa del Clot,2018,818.66
+el Camp de l'Arpa del Clot,2019,856
+el Camp de l'Arpa del Clot,2020,862.83
+el Camp de l'Arpa del Clot,2021,820.02
+el Camp de l'Arpa del Clot,2022,894.08
+el Camp de l'Arpa del Clot,2023,982.48
+el Camp de l'Arpa del Clot,2024,982.72
+el Camp de l'Arpa del Clot,2025,981.62
+el Camp de l'Arpa del Clot,2026,1018.25
+el Clot,2014,624.84
+el Clot,2015,651.6
+el Clot,2016,695.55
+el Clot,2017,767.51
+el Clot,2018,808.9
+el Clot,2019,856.54
+el Clot,2020,872.09
+el Clot,2021,825.67
+el Clot,2022,904.06
+el Clot,2023,1031.8
+el Clot,2024,1032.67
+el Clot,2025,966.25
+el Clot,2026,990.03
+el Parc i la Llacuna del Poblenou,2014,693.72
+el Parc i la Llacuna del Poblenou,2015,748.85
+el Parc i la Llacuna del Poblenou,2016,823.6
+el Parc i la Llacuna del Poblenou,2017,893.67
+el Parc i la Llacuna del Poblenou,2018,995.22
+el Parc i la Llacuna del Poblenou,2019,1014.72
+el Parc i la Llacuna del Poblenou,2020,974.32
+el Parc i la Llacuna del Poblenou,2021,972.12
+el Parc i la Llacuna del Poblenou,2022,1150.17
+el Parc i la Llacuna del Poblenou,2023,1238.07
+el Parc i la Llacuna del Poblenou,2024,1161.66
+el Parc i la Llacuna del Poblenou,2025,1258.12
+el Parc i la Llacuna del Poblenou,2026,1238.65
+la Vila Olímpica del Poblenou,2014,1003.24
+la Vila Olímpica del Poblenou,2015,1104.48
+la Vila Olímpica del Poblenou,2016,1184.04
+la Vila Olímpica del Poblenou,2017,1259.7
+la Vila Olímpica del Poblenou,2018,1284.43
+la Vila Olímpica del Poblenou,2019,1361.65
+la Vila Olímpica del Poblenou,2020,1376.59
+la Vila Olímpica del Poblenou,2021,1308.93
+la Vila Olímpica del Poblenou,2022,1426.27
+la Vila Olímpica del Poblenou,2023,1495.55
+la Vila Olímpica del Poblenou,2024,1677.17
+la Vila Olímpica del Poblenou,2025,1613.36
+la Vila Olímpica del Poblenou,2026,1644.91
+el Poblenou,2014,654.35
+el Poblenou,2015,735.04
+el Poblenou,2016,794.11
+el Poblenou,2017,900.22
+el Poblenou,2018,961.73
+el Poblenou,2019,1004.72
+el Poblenou,2020,1002.82
+el Poblenou,2021,945.86
+el Poblenou,2022,1079.91
+el Poblenou,2023,1172.83
+el Poblenou,2024,1211.75
+el Poblenou,2025,1189.53
+el Poblenou,2026,1254.15
+Diagonal Mar i el Front Marítim del Poblenou,2014,892.03
+Diagonal Mar i el Front Marítim del Poblenou,2015,1059.75
+Diagonal Mar i el Front Marítim del Poblenou,2016,1124.8
+Diagonal Mar i el Front Marítim del Poblenou,2017,1092.06
+Diagonal Mar i el Front Marítim del Poblenou,2018,1085.34
+Diagonal Mar i el Front Marítim del Poblenou,2019,1372.38
+Diagonal Mar i el Front Marítim del Poblenou,2020,1171.57
+Diagonal Mar i el Front Marítim del Poblenou,2021,1045.18
+Diagonal Mar i el Front Marítim del Poblenou,2022,1247.5
+Diagonal Mar i el Front Marítim del Poblenou,2023,1325.18
+Diagonal Mar i el Front Marítim del Poblenou,2024,1359.49
+Diagonal Mar i el Front Marítim del Poblenou,2025,1731.71
+Diagonal Mar i el Front Marítim del Poblenou,2026,1500.51
+el Besòs i el Maresme,2014,477.06
+el Besòs i el Maresme,2015,506.71
+el Besòs i el Maresme,2016,541.25
+el Besòs i el Maresme,2017,613.03
+el Besòs i el Maresme,2018,685.56
+el Besòs i el Maresme,2019,738.08
+el Besòs i el Maresme,2020,752.38
+el Besòs i el Maresme,2021,710.37
+el Besòs i el Maresme,2022,778.67
+el Besòs i el Maresme,2023,779.66
+el Besòs i el Maresme,2024,841.68
+el Besòs i el Maresme,2025,756.22
+el Besòs i el Maresme,2026,867.04
+Provençals del Poblenou,2014,639.55
+Provençals del Poblenou,2015,661.38
+Provençals del Poblenou,2016,839.8
+Provençals del Poblenou,2017,932.02
+Provençals del Poblenou,2018,948.8
+Provençals del Poblenou,2019,982.03
+Provençals del Poblenou,2020,957.52
+Provençals del Poblenou,2021,949.68
+Provençals del Poblenou,2022,1024.3
+Provençals del Poblenou,2023,1161.24
+Provençals del Poblenou,2024,1141.47
+Provençals del Poblenou,2025,1114.63
+Provençals del Poblenou,2026,1161.09
+Sant Martí de Provençals,2014,633.78
+Sant Martí de Provençals,2015,673.92
+Sant Martí de Provençals,2016,700.75
+Sant Martí de Provençals,2017,765.22
+Sant Martí de Provençals,2018,792.68
+Sant Martí de Provençals,2019,837.58
+Sant Martí de Provençals,2020,832.09
+Sant Martí de Provençals,2021,806.82
+Sant Martí de Provençals,2022,987.55
+Sant Martí de Provençals,2023,974.24
+Sant Martí de Provençals,2024,998.42
+Sant Martí de Provençals,2025,1011.05
+Sant Martí de Provençals,2026,990.95
+la Verneda i la Pau,2014,565.47
+la Verneda i la Pau,2015,610.72
+la Verneda i la Pau,2016,605.56
+la Verneda i la Pau,2017,688.63
+la Verneda i la Pau,2018,740.92
+la Verneda i la Pau,2019,778.41
+la Verneda i la Pau,2020,771.15
+la Verneda i la Pau,2021,743.71
+la Verneda i la Pau,2022,931.42
+la Verneda i la Pau,2023,1064.23
+la Verneda i la Pau,2024,1001.31
+la Verneda i la Pau,2025,924
+la Verneda i la Pau,2026,993.33
